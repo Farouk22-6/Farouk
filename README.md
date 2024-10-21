@@ -13,7 +13,7 @@ mfarukpahlevi@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Space Warrior </a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Runaway</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -26,8 +26,8 @@ mfarukpahlevi@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Space Warrior is a space shooter game with.</td> <!--desc-->
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
+      <td valign="text-top">Space Warrior is a top down space shooter game with an endless scoring build using unity under a week and the core loop was done within a day. </td> <!--desc-->
+      <td valign="text-top">Runaway is a 3D Endless runner build using unity the game and the core loop was done within a day</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
@@ -47,7 +47,7 @@ mfarukpahlevi@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Shevia Fire VR</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Running Dead</a></th> <!--tittle 3-->
       <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
     </tr>
   </thead>
@@ -61,7 +61,7 @@ mfarukpahlevi@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Shevia Fire is a safety training application utilizing Virtual Reality platforms like Meta Quest 3. It features modules on using fire blankets, as well as handling indoor and outdoor fire scenarios. The application was developed in under two months. As the Project Lead, I was responsible for task delegation, timeline management, and product design.</td> <!--desc-->
+      <td valign="text-top">Running Dead is wave based zombies Top Down shooter the game was made during mmy time as student paired with 2 others the game was made in unuty the core loop finished within a week and the game was done within a semester.</td> <!--desc-->
       <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
     </tr>
     <tr>
