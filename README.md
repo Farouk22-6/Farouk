@@ -1,7 +1,7 @@
 Hi, I'm Faruk 👋
 ---
 **📌About** <br>
-Hello, I'm Muhammad AL Farouk Pahlevi, also known as Faruk. I am a Student at Binus, With a degree in Computer Science. With a Major in Game application Technology, I also have a skill in making apps in Android Studio.
+Hello, I'm Muhammad AL Farouk Pahlevi, also known as Faruk. I am a Student at Binus, With a degree in Computer Science. With a Major in Game application Technology, I also have a skill in making apps in Android Studio and Blender.
 
 I have always been passionate about technology and enjoy creating innovative solutions through coding. My goal is to become a successful game developer and work on projects that will entertain and engage users.I am constantly learning and improving my skills to stay ahead in the rapidly evolving field of technology. I am excited about the opportunities that lie ahead in my career and look forward to making a positive impact in the industry.
 
