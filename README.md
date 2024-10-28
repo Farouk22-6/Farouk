@@ -19,15 +19,15 @@ mfarukpahlevi@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="1" style="width:100%;height:auto;">
+        <img src="!https://github.com/user-attachments/assets/49a883d3-7be8-4d2b-94ba-d03578bef84a.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Space Warrior is a top down space shooter game with an endless scoring build using unity under a week and the core loop was done within a day. </td> <!--desc-->
-      <td valign="text-top">Runaway is a 3D Endless runner build using unity the game and the core loop was done within a day</td> <!--desc-->
+      <td valign="text-top">Space Warrior is a top-down space shooter game with an endless scoring build using unity in under a week and the core loop was done within a day. </td> <!--desc-->
+      <td valign="text-top">Runaway is a 3D Endless runner built using unity the game and the core loop were done within a day</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
