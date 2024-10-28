@@ -19,7 +19,7 @@ mfarukpahlevi@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="!https://github.com/user-attachments/assets/49a883d3-7be8-4d2b-94ba-d03578bef84a.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/b2986fb4-caf3-4ac5-a063-d13963531e87" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
