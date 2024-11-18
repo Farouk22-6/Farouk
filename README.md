@@ -22,7 +22,7 @@ mfarukpahlevi@gmail.com
         <img src="https://github.com/user-attachments/assets/b2986fb4-caf3-4ac5-a063-d13963531e87" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="[https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif](https://discord.com/channels/@me/1027833744985423872/1307987906060881960)" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/06a56f89-609a-4a04-a29c-9b3a6d177bf8" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
