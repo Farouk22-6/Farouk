@@ -54,7 +54,7 @@ mfarukpahlevi@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-fire/3.png" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/19e7a312-bf09-4049-b1d0-b068917eb5c9" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
