@@ -57,12 +57,12 @@ mfarukpahlevi@gmail.com
         <img src="https://github.com/user-attachments/assets/19e7a312-bf09-4049-b1d0-b068917eb5c9" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
+        <img src="" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Running Dead is wave based zombies Top Down shooter the game was made during mmy time as student paired with 2 others the game was made in unuty the core loop finished within a week and the game was done within a semester.</td> <!--desc-->
-      <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
+      <td valign="text-top">Running Dead is wave based zombie Top Down shooter the game was made during my time as a student paired with 2 others the game was made in unity the core loop finished within a week and the game was done within a semester.</td> <!--desc-->
+      <td valign="text-top">Not done</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
