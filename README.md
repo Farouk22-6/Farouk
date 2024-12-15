@@ -57,12 +57,12 @@ mfarukpahlevi@gmail.com
         <img src="https://github.com/user-attachments/assets/19e7a312-bf09-4049-b1d0-b068917eb5c9" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/7f69e751-191b-471a-916d-aa56df381450" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
       <td valign="text-top">Running Dead is wave based zombie Top Down shooter the game was made during my time as a student paired with 2 others the game was made in unity the core loop finished within a week and the game was done within a semester.</td> <!--desc-->
-      <td valign="text-top">Free Knight is a prototype game made in a week in the future a lot more feature will be added to the game</td> <!--desc-->
+      <td valign="text-top">Free Knight is a prototype game made in a week in the future a lot more features will be added to the game</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
