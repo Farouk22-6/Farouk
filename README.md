@@ -48,7 +48,7 @@ mfarukpahlevi@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Running Dead</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Free Knight</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -62,7 +62,7 @@ mfarukpahlevi@gmail.com
     </tr>
     <tr>
       <td valign="text-top">Running Dead is wave based zombie Top Down shooter the game was made during my time as a student paired with 2 others the game was made in unity the core loop finished within a week and the game was done within a semester.</td> <!--desc-->
-      <td valign="text-top">Free Knight</td> <!--desc-->
+      <td valign="text-top">Free Knight is a prototype game made in a week in the future a lot more feature will be added to the game</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
